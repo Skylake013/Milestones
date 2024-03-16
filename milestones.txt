@@ -1,5 +1,4 @@
 Subscriber Milestones
-
 1 Sub: 6 sep 2021
 5 Subs: 26 sep 2022
 33 Subs: 18 dec 2022
@@ -22,8 +21,7 @@ Subscriber Milestones
 999 Subs: ???
 1000 Subs: ???
 
-Other Milestones:
-
+Other Milestones
 Created Channel: 31 aug 2020
 Fist Video: 18 jul 2022
 First Short: 25 aug 2022
